@@ -1,6 +1,8 @@
 # Todo: Arrays and Hashes
 
-<img src="https://s3.amazonaws.com/after-school-assets/todo.jpg" align="left" hspace="10" width="200"> This todo will get you flexing your array and hash muscles. To start, create a file called `arrays-hashes.rb` in terminal. You will code your solutions inside this file.
+<img src="https://s3.amazonaws.com/after-school-assets/todo.jpg" align="left" hspace="10" width="200"> 
+
+This todo will get you flexing your array and hash muscles. To start, create a file called `arrays-hashes.rb` in terminal. You will code your solutions inside this file.
 
 ### ARRAY:
 1. Create an array that contains strings of all of your favorite snacks. Store this array in a variable.
@@ -23,4 +25,3 @@
 4. Iterate over the house hash to print out all the values of the hash.
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-arrays-hashes-todo' title='Todo: Arrays and Hashes'>Todo: Arrays and Hashes</a> on Learn.co and start learning to code for free.</p>
