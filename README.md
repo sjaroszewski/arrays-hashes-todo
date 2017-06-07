@@ -16,7 +16,14 @@ This todo will get you flexing your array and hash muscles. To start, create a f
 5. Return the last item in the array.
 
 ### HASH:
-1. Create a hash that describes your house. Store data relating to the number of bedrooms, number of bathrooms, type of house (apartment, condo, townhouse, house, etc), and size of house in square feet. Store your hash in a variable.
+1. Create a hash that describes your house. Store data relating to the number of bedrooms, number of bathrooms, type of house (apartment, condo, townhouse, house, etc), and size of house in square feet. Store your hash in a variable. For example, your hash could start: 
+
+```
+house_hash={
+        :bedrooms => 2,
+        :bathrooms => 1
+   }
+```
 
 2. Iterate over your house hash to print out the key value pairs.
 
